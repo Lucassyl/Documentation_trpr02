@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Travail pratique 02",
   description: "Jeux video de pirate pour le Travail pratique 2",
-  base: '/appweb-trpr2/',
+  base: '/Documentation_trpr02/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
