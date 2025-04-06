@@ -26,8 +26,11 @@ hero:
       text: Recit 6 à 10 Mission
       link: /6-10 mission-doc
     - theme: alt
-      text: Recit 15 Reparation
+      text: Recit 15 Réparation
       link: /15 reparation-doc
+    - theme: brand
+      text: Draft du TP2
+      link: /draft
 
 features:
   #- title: Feature A
@@ -38,5 +41,15 @@ features:
   #  details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Norme choisie
     details: Français
+  - title: Characteristique Personnage
+    details: nom , experience trésorerie 
+  - title: Characteristique Bateau
+    details: nom vitaliter dommage
+  - title: Info mission
+    details: 2 type de mission  attaque forteresse et combat naval
+
+    
+  - title: lien page git
+    details: https://lucassyl.github.io/Documentation_trpr02/
 ---
 
